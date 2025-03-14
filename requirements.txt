@@ -8,3 +8,6 @@ passlib
 sqlalchemy
 gunicorn
 psycopg2
+requests
+rq
+redis
