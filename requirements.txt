@@ -7,3 +7,4 @@ flask-migrate
 passlib
 sqlalchemy
 gunicorn
+psycopg2
