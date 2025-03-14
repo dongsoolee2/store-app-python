@@ -8,4 +8,5 @@ venv/
 .venv/
 .env
 .flaskenv
+.DS_Store
 *.pyc
